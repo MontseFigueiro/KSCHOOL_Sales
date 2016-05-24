@@ -1,4 +1,4 @@
-#Tablas en R
+#Ejemplo cálculo Data Frame en R con ddply
 Vamos a crear un tabla con dos variables, id.cliente e importe de la compra. Cada cliente tiene varias compras. 
 Tenemos que crear una tercera columna con el % que representa esa compra sobre el total de compras que realizó ese cliente.
 
